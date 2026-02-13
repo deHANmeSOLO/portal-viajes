@@ -87,9 +87,8 @@ El usuario recibe confirmación visual del envío o un mensaje personalizado en 
 
 Si estás viendo este repositorio en GitHub, puedes acceder al sitio desplegado aquí:
 
-👉 **https://TU_USUARIO.github.io/portal-viajes/**
+👉 https://dehanmesolo.github.io/portal-viajes/
 
-*(Reemplaza TU_USUARIO por tu nombre de usuario de GitHub)*
 
 ---
 
